@@ -1,3 +1,10 @@
+### `This project only for special child`
+
+A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child's well-being and growth.
+
+### `why i can build`
+
+because it can help our special child and easy to her life.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,10 +36,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `This project only for special child`
-
-A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child's well-being and growth.
-
-### `why i can build`
-
-because it can help our special child and easy to her life.
