@@ -15,6 +15,7 @@ import About from './components/About/About';
 import Serves from './components/Serves/Serves';
 import Community from './components/Community/Community';
 import LearnMore from './components/LearnMore/LearnMore';
+import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
@@ -42,6 +43,9 @@ function App() {
           </Route>
           <Route exact path="/learn/:id">
             <LearnMore></LearnMore>
+          </Route>
+          <Route exact path="*">
+            <NotFound></NotFound>
           </Route>
 
         </Switch>
