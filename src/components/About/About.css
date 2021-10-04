@@ -1,0 +1,22 @@
+.card-about{
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 350px;
+    background-color: #ed6d26;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.top{
+    margin-top: 40%;
+}
+.btn{
+    background-color: #ed6d26;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+.btn:hover{
+    background-color: white;
+    color: #ed6d26;
+}

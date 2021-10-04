@@ -1,0 +1,16 @@
+.img-size{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+.card{
+    margin: 10px;
+    border: 1px solid #ed6d26;
+    padding: 10px;
+    height: 350px;
+}
+.btn-cart{
+    background-color: white;
+    border: 1px solid #ed6d26;
+}
